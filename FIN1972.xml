@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Fisresults>
  <Raceheader Sector="AL" Gender="M">
-  <Season>2019</Season>
+  <Season>2018</Season>
   <Codex>1972</Codex>
   <Nation>FIN</Nation>
   <Discipline>P</Discipline>
@@ -50,11 +50,42 @@
    <Firstname>Uldis</Firstname>
    <Nation>LAT</Nation>
   </Jury>
+  <Jury Function="Assistantreferee">
+   <Lastname>KORDE</Lastname>
+   <Firstname>Kaspars</Firstname>
+   <Nation>LAT</Nation>
+  </Jury>
   <AL_raceinfo>
-   <Usedfislist>12</Usedfislist>
-   <Appliedpenalty>0.00</Appliedpenalty>
-   <Calculatedpenalty>0.00</Calculatedpenalty>
-   <Fvalue>0</Fvalue>
+   <Course Run="1">
+    <Name>FIS-Rinne</Name>
+    <Homologation>9823/11/10</Homologation>
+    <Starttime>11:30</Starttime>
+    <Length>0</Length>
+    <Gates>24</Gates>
+    <Turninggates>24</Turninggates>
+    <Startelev>360</Startelev>
+    <Finishelev>295</Finishelev>
+    <Coursesetter>
+     <Lastname>FOGELIS</Lastname>
+     <Firstname>Daniels</Firstname>
+     <Nation>LAT</Nation>
+    </Coursesetter>
+   </Course>
+   <Course Run="2">
+    <Name>FIS-Rinne</Name>
+    <Homologation>9823/11/10</Homologation>
+    <Starttime>12:00</Starttime>
+    <Length>0</Length>
+    <Gates>24</Gates>
+    <Turninggates>24</Turninggates>
+    <Startelev>360</Startelev>
+    <Finishelev>295</Finishelev>
+    <Coursesetter>
+     <Lastname>FOGELIS</Lastname>
+     <Firstname>Daniels</Firstname>
+     <Nation>LAT</Nation>
+    </Coursesetter>
+   </Course>
    <Weather>
     <Weather>Sunny</Weather>
     <Snow>Hard/Injected</Snow>
@@ -79,11 +110,6 @@
      <Yearofbirth>1989</Yearofbirth>
      <Clubname>Levi Ski Club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>2</Rank>
@@ -97,11 +123,6 @@
      <Yearofbirth>1995</Yearofbirth>
      <Clubname>SK Virsotne</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>3</Rank>
@@ -115,11 +136,6 @@
      <Yearofbirth>1992</Yearofbirth>
      <Clubname>SK Virsotne</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>4</Rank>
@@ -133,11 +149,6 @@
      <Yearofbirth>1993</Yearofbirth>
      <Clubname>Helsinki Ski Club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>5</Rank>
@@ -151,11 +162,6 @@
      <Yearofbirth>2000</Yearofbirth>
      <Clubname>Santa Claus ski team</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>5</Rank>
@@ -169,11 +175,6 @@
      <Yearofbirth>2001</Yearofbirth>
      <Clubname>Kuopio Ski club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>5</Rank>
@@ -187,11 +188,6 @@
      <Yearofbirth>2000</Yearofbirth>
      <Clubname>Santa Claus Ski Team</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>5</Rank>
@@ -205,11 +201,6 @@
      <Yearofbirth>1996</Yearofbirth>
      <Clubname>Grifk Alpine</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -223,11 +214,6 @@
      <Yearofbirth>2000</Yearofbirth>
      <Clubname>Grifk Alpine</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -241,11 +227,6 @@
      <Yearofbirth>1999</Yearofbirth>
      <Clubname>Hyvinkaan Slalomseura Sukkula</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -259,11 +240,6 @@
      <Yearofbirth>1998</Yearofbirth>
      <Clubname>Lahden Hiihtoseura</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -277,11 +253,6 @@
      <Yearofbirth>1997</Yearofbirth>
      <Clubname>Ruka Slalom</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -295,11 +266,6 @@
      <Yearofbirth>1996</Yearofbirth>
      <Clubname>Helsinki Ski Club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -313,11 +279,6 @@
      <Yearofbirth>1997</Yearofbirth>
      <Clubname>Alppihiihtoseura Himoski</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -331,11 +292,6 @@
      <Yearofbirth>1997</Yearofbirth>
      <Clubname>Grifk Alpine</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>9</Rank>
@@ -349,11 +305,6 @@
      <Yearofbirth>1998</Yearofbirth>
      <Clubname>SK Ziemelpols - SSS</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -367,11 +318,6 @@
      <Yearofbirth>1999</Yearofbirth>
      <Clubname>Nilsia Ski</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -385,11 +331,6 @@
      <Yearofbirth>2000</Yearofbirth>
      <Clubname>SK International Ski Team</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -403,11 +344,6 @@
      <Yearofbirth>1997</Yearofbirth>
      <Clubname>Sportclub Skisport</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -421,11 +357,6 @@
      <Yearofbirth>1999</Yearofbirth>
      <Clubname>Sollentuna Slk</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -439,11 +370,6 @@
      <Yearofbirth>2000</Yearofbirth>
      <Clubname>Lahden Hiihtoseura</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -457,11 +383,6 @@
      <Yearofbirth>1997</Yearofbirth>
      <Clubname />
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -475,11 +396,6 @@
      <Yearofbirth>1998</Yearofbirth>
      <Clubname>Nilsia Ski</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -493,11 +409,6 @@
      <Yearofbirth>1998</Yearofbirth>
      <Clubname>Kuopio Ski Club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -511,11 +422,6 @@
      <Yearofbirth>2001</Yearofbirth>
      <Clubname>Hyvinkaan Slalomseura sukkula</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -529,11 +435,6 @@
      <Yearofbirth>1998</Yearofbirth>
      <Clubname>Helsinki Ski Club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -547,11 +448,6 @@
      <Yearofbirth>1998</Yearofbirth>
      <Clubname>Hyvinkaan Slalomseura sukkula</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -565,11 +461,6 @@
      <Yearofbirth>2001</Yearofbirth>
      <Clubname>Helsinki Ski club</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -583,11 +474,6 @@
      <Yearofbirth>1997</Yearofbirth>
      <Clubname>Ruka Slalom</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
    <AL_ranked Status="QLF">
     <Rank>17</Rank>
@@ -601,416 +487,7 @@
      <Yearofbirth>1999</Yearofbirth>
      <Clubname>Hyss</Clubname>
     </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>31</Rank>
-    <Bib>29</Bib>
-    <Competitor>
-     <Fiscode>180858</Fiscode>
-     <Lastname>MIKKONEN</Lastname>
-     <Firstname>Kalle</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>1999</Yearofbirth>
-     <Clubname>Tampereen Slalomseura</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>31</Rank>
-    <Bib>15</Bib>
-    <Competitor>
-     <Fiscode>180875</Fiscode>
-     <Lastname>WIKSTROM</Lastname>
-     <Firstname>Wilhelm</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Grankulla Ifk alpine</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180871</Fiscode>
-     <Lastname>JOKIAHO</Lastname>
-     <Firstname>Oskari</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Seinajoen Hiihtoseura</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>550101</Fiscode>
-     <Lastname>LAZDANS</Lastname>
-     <Firstname>Kristaps</Firstname>
-     <Gender>M</Gender>
-     <Nation>LAT</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Sk Ziemelpols - sss</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180896</Fiscode>
-     <Lastname>SOIKKANEN</Lastname>
-     <Firstname>Sebastian</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Grankulla Ifk alpine</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180868</Fiscode>
-     <Lastname>MAKLIN</Lastname>
-     <Firstname>Eemeli</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Nilski</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180895</Fiscode>
-     <Lastname>PERKKO</Lastname>
-     <Firstname>Eetu</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Tampereen Slalomseura</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180899</Fiscode>
-     <Lastname>HAMALAINEN</Lastname>
-     <Firstname>Andreas</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Peuramaa Slalom</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180847</Fiscode>
-     <Lastname>KALELA</Lastname>
-     <Firstname>Akseli</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>1999</Yearofbirth>
-     <Clubname>Nilsia Ski</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180880</Fiscode>
-     <Lastname>KIVISTO</Lastname>
-     <Firstname>Kristian</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Tampereen Slalomseura</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>550097</Fiscode>
-     <Lastname>BELAKOVS</Lastname>
-     <Firstname>Edgars</Firstname>
-     <Gender>M</Gender>
-     <Nation>LAT</Nation>
-     <Yearofbirth>1999</Yearofbirth>
-     <Clubname>Sk Virsotne</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>550096</Fiscode>
-     <Lastname>CERNEVSKIS</Lastname>
-     <Firstname>Kristers</Firstname>
-     <Gender>M</Gender>
-     <Nation>LAT</Nation>
-     <Yearofbirth>1999</Yearofbirth>
-     <Clubname>SK ASI</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>203035</Fiscode>
-     <Lastname>WALLISER</Lastname>
-     <Firstname>Felix</Firstname>
-     <Gender>M</Gender>
-     <Nation>GER</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>team 3000 Oberpfalz</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>550087</Fiscode>
-     <Lastname>ZVEJNIEKS</Lastname>
-     <Firstname>Davis</Firstname>
-     <Gender>M</Gender>
-     <Nation>LAT</Nation>
-     <Yearofbirth>1998</Yearofbirth>
-     <Clubname>SK Virsotne</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
-   </AL_ranked>
-   <AL_ranked Status="QLF">
-    <Rank>33</Rank>
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>6532568</Fiscode>
-     <Lastname>KUBOTA</Lastname>
-     <Firstname>Kelsey</Firstname>
-     <Gender>M</Gender>
-     <Nation>USA</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Carrabassett Valley academy</Clubname>
-    </Competitor>
-    <AL_result>
-     <Timerun1 />
-     <TotalTime />
-     <Racepoints>0.00</Racepoints>
-    </AL_result>
    </AL_ranked>
   </AL_classified>
-  <AL_notclassified>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180786</Fiscode>
-     <Lastname>BACK</Lastname>
-     <Firstname>Robin</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>1996</Yearofbirth>
-     <Clubname>Grifk Alpine</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180890</Fiscode>
-     <Lastname>SIRVIO</Lastname>
-     <Firstname>Salomo</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Kuopio Ski club</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180894</Fiscode>
-     <Lastname>NIEMINEN</Lastname>
-     <Firstname>Miikka</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Pohjan Sport</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180867</Fiscode>
-     <Lastname>KUKKONEN</Lastname>
-     <Firstname>Niko</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Fjallskidarklubben -37</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180815</Fiscode>
-     <Lastname>KUUSLA</Lastname>
-     <Firstname>Henri</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>1997</Yearofbirth>
-     <Clubname>Helsinki Ski Club</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180893</Fiscode>
-     <Lastname>PIETIKAINEN</Lastname>
-     <Firstname>Teemu</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Helsinki Ski club</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180887</Fiscode>
-     <Lastname>PALOSAARI</Lastname>
-     <Firstname>Joel</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Hyvinkaan Slalomseura sukkula</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180888</Fiscode>
-     <Lastname>VESALAINEN</Lastname>
-     <Firstname>Julius</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2001</Yearofbirth>
-     <Clubname>Helsinki Ski club</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180861</Fiscode>
-     <Lastname>LINJAKUMPU</Lastname>
-     <Firstname>Juho</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>1999</Yearofbirth>
-     <Clubname>Ruka Slalom</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>180865</Fiscode>
-     <Lastname>AATAMILA</Lastname>
-     <Firstname>Lauri</Firstname>
-     <Gender>M</Gender>
-     <Nation>FIN</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Joensuun Pujottelijat</Clubname>
-    </Competitor>
-   </AL_notranked>
-   <AL_notranked Status="DNF">
-    <Bib>0</Bib>
-    <Competitor>
-     <Fiscode>6532939</Fiscode>
-     <Lastname>WEAVER</Lastname>
-     <Firstname>Matthew</Firstname>
-     <Gender>M</Gender>
-     <Nation>USA</Nation>
-     <Yearofbirth>2000</Yearofbirth>
-     <Clubname>Carrabassett Valley academy</Clubname>
-    </Competitor>
-   </AL_notranked>
-  </AL_notclassified>
  </AL_race>
 </Fisresults>
